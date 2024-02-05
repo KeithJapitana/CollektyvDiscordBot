@@ -1,0 +1,380 @@
+[
+    {
+        "quest_id": 8437,
+        "title": "**WRITE 3 MANGA RECAPS**",
+        "deadline": "July 11, 2023",
+        "price": 75,
+        "accepted_by": "mayra"
+    },
+    {
+        "quest_id": 7616,
+        "title": "**WRITE ANIME WHAT-IF SCRIPT**",
+        "deadline": "July 08, 2023",
+        "price": 20,
+        "accepted_by": ".nyel"
+    },
+    {
+        "quest_id": 4391,
+        "title": "**WRITE 2 WHAT-IF SCRIPTS**",
+        "deadline": "July 10, 2023",
+        "price": 32,
+        "accepted_by": "thefool9967"
+    },
+    {
+        "quest_id": 5869,
+        "title": "**WRITE ANIME FACTS SCRIPT**",
+        "deadline": "July 08, 2023",
+        "price": 15,
+        "accepted_by": "bibble_nori"
+    },
+    {
+        "quest_id": 8382,
+        "title": "**WRITE ANIME WHAT-IF SCRIPT**",
+        "deadline": "July 10, 2023",
+        "price": 20,
+        "accepted_by": "bibble_nori"
+    },
+    {
+        "quest_id": 3958,
+        "title": "**REVISE AND ADD EPISODES ON RECAPS**",
+        "deadline": "July 12, 2023",
+        "price": 6,
+        "accepted_by": "fanboyniyeji"
+    },
+    {
+        "quest_id": 8570,
+        "title": "**WRITE ANIME WHAT-IF SCRIPT**",
+        "deadline": "July 11, 2023",
+        "price": 20,
+        "accepted_by": "ilyssa."
+    },
+    {
+        "quest_id": 8440,
+        "title": "**WRITE WHAT IF SCRIPT**",
+        "deadline": "July 11, 2023",
+        "price": 20.0,
+        "accepted_by": "enamms"
+    },
+    {
+        "quest_id": 2898,
+        "title": "**WRITE WHAT IF SCRIPT**",
+        "deadline": "July 13, 2023",
+        "price": 16.0,
+        "accepted_by": "zeidrac"
+    },
+    {
+        "quest_id": 7489,
+        "title": "**WRITE FACTS SCRIPT**",
+        "deadline": "July 15, 2023",
+        "price": 15.69,
+        "accepted_by": "Huma Rifat"
+    },
+    {
+        "quest_id": 8147,
+        "title": "**WRITE WHAT IF SCRIPT**",
+        "deadline": "July 15, 2023",
+        "price": 20.0,
+        "accepted_by": "klyxeon"
+    },
+    {
+        "quest_id": 8268,
+        "title": "**WRITE WHAT IF SCRIPT**",
+        "deadline": "July 16, 2023",
+        "price": 25.0,
+        "accepted_by": "fanboyniyeji"
+    },
+    {
+        "quest_id": 2846,
+        "title": "**WRITE WHAT IF DEMON SLAYER SCRIPT**",
+        "deadline": "July 19, 2023",
+        "price": 20.0,
+        "accepted_by": "Romeo091602"
+    },
+    {
+        "quest_id": 5228,
+        "title": "**WRITE WHAT IF DEMON SLAYER SCRIPT**",
+        "deadline": "July 19, 2023",
+        "price": 16.0,
+        "accepted_by": "zeidrac"
+    },
+    {
+        "quest_id": 5642,
+        "title": "**WRITE EXPLANATION SCRIPT**",
+        "deadline": "July 23, 2023",
+        "price": 20.0,
+        "accepted_by": "bibble_nori"
+    },
+    {
+        "quest_id": 8570,
+        "title": "**WRITE RECAP SCRIPT**",
+        "deadline": "July 30, 2023",
+        "price": 80.0,
+        "accepted_by": "Huma Rifat"
+    },
+    {
+        "quest_id": 5904,
+        "title": "**WRITE RECAP SCRIPT**",
+        "deadline": "July 30, 2023",
+        "price": 80.0,
+        "accepted_by": "thefool9967"
+    },
+    {
+        "quest_id": 6059,
+        "title": "**WRITE RECAP SCRIPT**",
+        "deadline": "July 30, 2023",
+        "price": 80.0,
+        "accepted_by": "bibble_nori"
+    },
+    {
+        "quest_id": 4347,
+        "title": "**WRITE RECAP SCRIPT**",
+        "deadline": "July 30, 2023",
+        "price": 80.0,
+        "accepted_by": "mayra"
+    },
+    {
+        "quest_id": 1284,
+        "title": "**WRITE AN ANIME EXPLANATION SCRIPT**",
+        "deadline": "July 27, 2023",
+        "price": 16.0,
+        "accepted_by": "zeidrac"
+    },
+    {
+        "quest_id": 4247,
+        "title": "**WRITE A MANHWA RECAP SCRIPT**",
+        "deadline": "August 01, 2023",
+        "price": 20.0,
+        "accepted_by": "zeidrac"
+    },
+    {
+        "quest_id": 9137,
+        "title": "**DEMON SLAYER DISCORD CONVERSATION SCRIPT**",
+        "deadline": "July 31, 2023",
+        "price": 10.0,
+        "accepted_by": "Romeo091602"
+    },
+    {
+        "quest_id": 9119,
+        "title": "**WRITE AN EXPLANATION SCRIPT**",
+        "deadline": "July 31, 2023",
+        "price": 16.0,
+        "accepted_by": "Blank Striker"
+    },
+    {
+        "quest_id": 9141,
+        "title": "**WRITE MANHWA RECAP SCRIPT**",
+        "deadline": "August 03, 2023",
+        "price": 38.0,
+        "accepted_by": "klyxeon"
+    },
+    {
+        "quest_id": 4871,
+        "title": "**WRITE DEMON SLAYER HIDDEN FACTS SCRIPT**",
+        "deadline": "August 03, 2023",
+        "price": 28.0,
+        "accepted_by": "rominggggg"
+    },
+    {
+        "quest_id": 5425,
+        "title": "**WRITE JUJUTSU KAISEN BLOG ARTICLE**",
+        "deadline": "August 02, 2023",
+        "price": 12.0,
+        "accepted_by": "humarifat"
+    },
+    {
+        "quest_id": 7626,
+        "title": "**WRITE DEMON SLAYER DISCORD SCRIPT**",
+        "deadline": "August 05, 2023",
+        "price": 16.0,
+        "accepted_by": "mayra"
+    },
+    {
+        "quest_id": 6653,
+        "title": "**WRITE TRUE CRIME SCRIPTS**",
+        "deadline": "August 12, 2023",
+        "price": 105.0,
+        "accepted_by": "Yan qt"
+    },
+    {
+        "quest_id": 4983,
+        "title": "**WRITE TRUE CRIME SCRIPTS**",
+        "deadline": "August 06, 2023",
+        "price": 30.0,
+        "accepted_by": "Yan qt"
+    },
+    {
+        "quest_id": 1166,
+        "title": "**WRITE DEMON SLAYER FACTS SCRIPT**",
+        "deadline": "August 06, 2023",
+        "price": 19.34,
+        "accepted_by": "humarifat"
+    },
+    {
+        "quest_id": 3092,
+        "title": "**WRITE DEMON SLAYER WHAT IF**",
+        "deadline": "August 05, 2023",
+        "price": 16.0,
+        "accepted_by": "Blank Striker"
+    },
+    {
+        "quest_id": 5290,
+        "title": "**WRITE TRUE CRIME SCRIPT**",
+        "deadline": "August 07, 2023",
+        "price": 30.0,
+        "accepted_by": "humarifat"
+    },
+    {
+        "quest_id": 9628,
+        "title": "**WRITE ANIME RECAP SCRIPT**",
+        "deadline": "August 07, 2023",
+        "price": 19.34,
+        "accepted_by": "mayra"
+    },
+    {
+        "quest_id": 8557,
+        "title": "**WRITE AN ANIME BLOG**",
+        "deadline": "August 06, 2023",
+        "price": 12.0,
+        "accepted_by": "mayra"
+    },
+    {
+        "quest_id": 9948,
+        "title": "**WRITE AN ANIME WHAT IF SCRIPT**",
+        "deadline": "August 08, 2023",
+        "price": 16.0,
+        "accepted_by": "enamms"
+    },
+    {
+        "quest_id": 7381,
+        "title": "**WRITE TRUE CRIME SCRIPT**",
+        "deadline": "August 13, 2023",
+        "price": 90.0,
+        "accepted_by": "Yan qt"
+    },
+    {
+        "quest_id": 2462,
+        "title": "**WRITE A TRUE CRIME SCRIPT**",
+        "deadline": "August 14, 2023",
+        "price": 30.0,
+        "accepted_by": "klyxeon"
+    },
+    {
+        "quest_id": 6039,
+        "title": "**WRITE TRUE CRIME SCRIPT**",
+        "deadline": "August 14, 2023",
+        "price": 30.0,
+        "accepted_by": "bibble_nori"
+    },
+    {
+        "quest_id": 1098,
+        "title": "**WRITE BERSERK RECAP SCRIPT**",
+        "deadline": "August 13, 2023",
+        "price": 20.0,
+        "accepted_by": "mayra"
+    },
+    {
+        "quest_id": 7673,
+        "title": "**WRITE 2 TRUE CRIME SCRIPT**",
+        "deadline": "August 17, 2023",
+        "price": 60.0,
+        "accepted_by": "thefool9967"
+    },
+    {
+        "quest_id": 3024,
+        "title": "**WRITE TRUE CRIME SCRIPT**",
+        "deadline": "August 14, 2023",
+        "price": 30.0,
+        "accepted_by": "fanboyniyeji"
+    },
+    {
+        "quest_id": 1401,
+        "title": "WRITE A WHAT IF SCRIPT",
+        "deadline": "August 14, 2023",
+        "price": 16.0,
+        "accepted_by": "rominggggg"
+    },
+    {
+        "quest_id": 8903,
+        "title": "WRITE A CRIME DOCUMENTARY SCRIPT",
+        "deadline": "August 17, 2023",
+        "price": 30.0,
+        "accepted_by": "humarifat"
+    },
+    {
+        "quest_id": 9232,
+        "title": "WRITE A CRIME DOCUMENTARY SCRIPT",
+        "deadline": "August 17, 2023",
+        "price": 30.0,
+        "accepted_by": "mayra"
+    },
+    {
+        "quest_id": 1124,
+        "title": "WRITE A NARUTO WHAT IF SCRIPT",
+        "deadline": "August 17, 2023",
+        "price": 16.0,
+        "accepted_by": "rominggggg"
+    },
+    {
+        "quest_id": 5764,
+        "title": "WRITE A CRIME DOCUMENTARY SCRIPT",
+        "deadline": "August 17, 2023",
+        "price": 30.0,
+        "accepted_by": "klyxeon"
+    },
+    {
+        "quest_id": 7070,
+        "title": "WRITE A BORUTO EXPLANATION SCRIPT",
+        "deadline": "August 17, 2023",
+        "price": 16.0,
+        "accepted_by": "zeidrac"
+    },
+    {
+        "quest_id": 1035,
+        "title": "RECAP AND SUMMARIZE A MANHWA",
+        "deadline": "August 18, 2023",
+        "price": 25.0,
+        "accepted_by": "humarifat"
+    },
+    {
+        "quest_id": 4790,
+        "title": "WRITE A CRIME DOCUMENTARY",
+        "deadline": "August 18, 2023",
+        "price": 30.0,
+        "accepted_by": "saaddhillon"
+    },
+    {
+        "quest_id": 9806,
+        "title": "WRITE A FACTS SCRIPT",
+        "deadline": "August 21, 2023",
+        "price": 20.0,
+        "accepted_by": "Blank Striker"
+    },
+    {
+        "quest_id": 7694,
+        "title": "WRITE A NARUTO WHAT IF SCRIPT",
+        "deadline": "August 21, 2023",
+        "price": 16.0,
+        "accepted_by": "mayra"
+    },
+    {
+        "quest_id": 3077,
+        "title": "**WRITE A ONE PIECE EXPLANATION SCRIPT**",
+        "deadline": "August 24, 2023",
+        "price": 12.0,
+        "accepted_by": "humarifat"
+    },
+    {
+        "quest_id": 3515,
+        "title": "**WRITE 4 SHORT SCRIPTS**",
+        "deadline": "August 24, 2023",
+        "price": 16.0,
+        "accepted_by": "fanboyniyeji"
+    },
+    {
+        "quest_id": 6813,
+        "title": "**WRITE A JJK WHAT IF SCRIPT**",
+        "deadline": "August 24, 2023",
+        "price": 12.0,
+        "accepted_by": "mayra"
+    }
+]
